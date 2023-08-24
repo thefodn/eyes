@@ -1,0 +1,11 @@
+Model Information:
+* title:	monster_eye
+* source:	https://sketchfab.com/3d-models/monster-eye-2956fc76dba84003959f197ac5f858d1
+* author:	neos_nelia (https://sketchfab.com/neosnelia)
+
+Model License:
+* license type:	CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
+* requirements:	Author must be credited. Modified versions can not be distributed. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "monster_eye" (https://sketchfab.com/3d-models/monster-eye-2956fc76dba84003959f197ac5f858d1) by neos_nelia (https://sketchfab.com/neosnelia) licensed under CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
